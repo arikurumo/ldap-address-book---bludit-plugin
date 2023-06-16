@@ -1,1 +1,7 @@
-
+{
+	"plugin-data":
+	{
+		"name": "LDAP address book",
+		"description": "Plugin for automatic creation of a people address book obtained by searching using the LDAP protocol from a specified server"
+	}
+}
