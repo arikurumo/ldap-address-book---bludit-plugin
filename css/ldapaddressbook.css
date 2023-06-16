@@ -1,1 +1,30 @@
+.la-table {
+  width: 90%;
+  font-size: 9px;
+  border: 1px solid gray;
+}
+
+.la-thead {
+  background-color: #D6EBEE;
+}
+
+.la-th {
+  text-align: center;
+  font-weight: bold;
+}
+
+.la-tbody {
+}
+
+tr.la-tr:nth-child(even) {
+  background-color: #F8F8FA
+}
+
+tr.la-tr:nth-child(odd) {
+  background-color: #F0F0F3
+}
+
+.la-td {
+
+}
 
