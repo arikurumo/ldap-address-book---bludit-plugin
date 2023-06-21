@@ -247,7 +247,7 @@ class ldapaddressbook extends Plugin {
               
         
     $html .= '<div class="bg-light col-md-12 mt-5 py-3 d-block border text-center">';
-    $html .= '<p class="lead">'.$L->get('Created by').' <b>arikurumo</b> | &#128077; ❤️ '.$L->get('If you like this plugin you can buy me a cup of tea.').'</p>';
+    $html .= '<p class="lead">'.$L->get('Created by').' <b>arikurumo</b> | &#128077; '.$L->get('If you like this plugin you can buy me a cup of tea.').'</p>';
     $html .= '<a href="https://www.paypal.com/donate/?business=TTSV8RYX5ZFAY&no_recurring=0&item_name=Thank+you.+I+appreciate+it+%3B%29&currency_code=EUR" target="_blank">';
     $html .= '<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"  />';
     $html .= '</a>';
